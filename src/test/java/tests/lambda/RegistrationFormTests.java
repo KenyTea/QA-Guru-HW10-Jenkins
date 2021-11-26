@@ -1,4 +1,4 @@
-package tests.demoqa;
+package tests.lambda;
 
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.Test;
